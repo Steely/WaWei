@@ -1,0 +1,18 @@
+DEBUG 07-25 15:43:32 SendThread.run(41) | Request Thread start
+INFO 07-25 15:43:32 StartClient.main(49) | ************************
+INFO 07-25 15:43:32 StartClient.main(50) | Client Started!
+DEBUG 07-25 15:43:32 LoadSyncConfigTask.run(16) | start load config task
+INFO 07-25 15:43:32 StartClient.main(51) | ************************
+DEBUG 07-25 15:43:32 TcpConnection.connect(140) | connect to : [localhost:6401]
+DEBUG 07-25 15:43:33 CommonRequest.getSyncConfig(30) | 
+DEBUG 07-25 15:43:33 LoadSyncConfigTask.run(20) | config size 0
+DEBUG 07-25 15:43:37 SyncDataTask.run(33) | start sync data task
+WARN 07-25 15:43:37 SyncDataTask.run(35) | sync config list is empty
+DEBUG 07-25 15:43:42 SyncDataTask.run(33) | start sync data task
+WARN 07-25 15:43:42 SyncDataTask.run(35) | sync config list is empty
+DEBUG 07-25 15:43:47 SyncDataTask.run(33) | start sync data task
+WARN 07-25 15:43:47 SyncDataTask.run(35) | sync config list is empty
+DEBUG 07-25 15:43:52 SyncDataTask.run(33) | start sync data task
+WARN 07-25 15:43:52 SyncDataTask.run(35) | sync config list is empty
+DEBUG 07-25 15:43:57 SyncDataTask.run(33) | start sync data task
+WARN 07-25 15:43:57 SyncDataTask.run(35) | sync config list is empty
